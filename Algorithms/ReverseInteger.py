@@ -8,7 +8,7 @@ def reverse(x):
     :type x: int
     :rtype: int
     """
-    if x >= 2**31-1 or x <= -2**31:
+    if x >= 2 ** 31 - 1 or x <= -2 ** 31:
         return 0
     else:
         string = str(x)
@@ -22,7 +22,7 @@ def reverse(x):
             stringNoNegative = string[1:]
             stringNoNegativeReversed = stringNoNegative[::-1]
             reversedString = "-" + stringNoNegativeReversed
-        if int(reversedString) >= 2**31-1 or int(reversedString) < - 2**31:
+        if int(reversedString) >= 2 ** 31 - 1 or int(reversedString) < -2 ** 31:
             return 0
         else:
             return int(reversedString)
