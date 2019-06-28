@@ -118,7 +118,7 @@ Note:
 
 All given inputs are in lowercase letters a-z.
 
-## ValidParentheses **(Learned about Stacks)**
+## ValidParentheses ***(Learned about Stacks)***
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
