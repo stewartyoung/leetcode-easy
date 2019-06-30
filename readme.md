@@ -118,7 +118,7 @@ Note:
 
 All given inputs are in lowercase letters a-z.
 
-## ValidParentheses
+## ValidParentheses ***(Learned about Stacks)***
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
@@ -147,3 +147,11 @@ Output: false
 Example 5:
 Input: "{[]}"
 Output: true  
+
+## MergeTwoSortedLists
+
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+Example:  
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
