@@ -185,7 +185,7 @@ Note that the input array is passed in by reference, which means modification to
 
 Internally you can think of this:  
 
-```python
+```
 // nums is passed in by reference. (i.e., without making a copy)
 int len = removeDuplicates(nums);
 
