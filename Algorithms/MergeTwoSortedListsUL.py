@@ -1,7 +1,7 @@
 egList1 = [1,2,4]
 egList2 = [1,3,4]
 
-def mergeTwoSortedLists(test_list1, test_list2):
+def mergeTwoSortedListsUL(test_list1, test_list2):
 	size_1 = len(test_list1) 
 	size_2 = len(test_list2) 
 	res = [] 
@@ -19,4 +19,4 @@ def mergeTwoSortedLists(test_list1, test_list2):
 
 	return res
 
-print(mergeTwoSortedLists(egList1, egList2))
+print(mergeTwoSortedListsUL(egList1, egList2))
