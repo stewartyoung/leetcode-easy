@@ -157,6 +157,7 @@ Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
 
 ## RemoveDuplicatesFromSortedArray
+### Problem here was list object cannot be interpreted as an integer
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
