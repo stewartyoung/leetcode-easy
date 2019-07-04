@@ -198,6 +198,7 @@ for (int i = 0; i < len; i++) {
 ```
 
 ## RemoveElement (First Algorithm in C++, required setting up vs code to build, compile, run c++)
+### To get setup for C++  I used minGW and this tutorial https://www.youtube.com/watch?v=DIw02CaEusY
 
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
