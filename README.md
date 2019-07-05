@@ -199,7 +199,8 @@ for (int i = 0; i < len; i++) {
 
 ## RemoveElement (First Algorithm in C++, required setting up vs code to build, compile, run c++)
 ### To get setup for C++  I used minGW and this tutorial https://www.youtube.com/watch?v=DIw02CaEusY  
-### Still could not get it working after this, so I just ran a hello world c++ file from the command line using g++ helloworld.cpp and then running the a.exe file produced from it 
+### Still could not get it working after this, so I just ran a hello world c++ file from the command line using g++ helloworld.cpp and then running the a.exe file produced from it  
+### Then decided to make a seperate repo for c++ algorithms as I think they were conflicting with the python files when running
 
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
