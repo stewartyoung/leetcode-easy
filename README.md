@@ -1,4 +1,4 @@
-# A repository of leetcode easy solutions  
+# A repository of leetcode easy solutions   
 
 ## TwoSum
 
