@@ -312,3 +312,12 @@ Output: 6
 Explanation: [4,-1,2,1] has the largest sum = 6.
 Follow up:
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+
+## LengthLastWord
+
+Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.  
+If the last word does not exist, return 0.  
+Note: A word is defined as a character sequence consists of non-space characters only.  
+Example:  
+Input: "Hello World"
+Output: 5
