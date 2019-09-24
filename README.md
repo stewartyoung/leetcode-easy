@@ -360,3 +360,6 @@ Output: 2
 
 Explanation: The square root of 8 is 2.82842..., and since 
              the decimal part is truncated, 2 is returned.
+             
+### Solution relies heavily on newton raphson equation for finding square root
+![img](https://user-images.githubusercontent.com/36263575/65521433-1f8f3e80-dee1-11e9-9754-d3bb1f98c4e2.png)
