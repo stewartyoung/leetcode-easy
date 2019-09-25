@@ -390,3 +390,7 @@ Explanation: There are three ways to climb to the top.
 3. 2 steps + 1 step 
 
 **Note: we are only looking to return the number of ways it can be done, not an output of the alternative routes**
+
+## LinkedList
+A general class (not on leetcode) to learn how linkedlists work in python.
+Useful resource: https://www.youtube.com/watch?v=Ast5sKQXxEU
