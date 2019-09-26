@@ -42,4 +42,10 @@ class LinkedList(object):
             else:
                 this_node = this_node.get_next()
 
-
+myList = LinkedList()
+myList.add(5)
+myList.add(8)
+myList.add(12)
+myList.remove(8)
+print(myList.remove(12))
+print(myList.find(5))
