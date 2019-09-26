@@ -393,4 +393,6 @@ Explanation: There are three ways to climb to the top.
 
 ## LinkedList
 A general class (not on leetcode) to learn how linkedlists work in python.
-Useful resource: https://www.youtube.com/watch?v=Ast5sKQXxEU
+Useful resource: https://www.youtube.com/watch?v=Ast5sKQXxEU 
+
+Creates Node and LinkedList classes to be instantiated. Fantastic tutorial on how these work.
